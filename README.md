@@ -1,6 +1,3 @@
-# circular-decision-support-model
-Decision-support model for circular product lifecycle strategies (repair, replace, recycle)
-
 # Circular Decision Support Model
 
 This project explores how to choose between repairing, replacing, or recycling a product based on its lifecycle characteristics.
