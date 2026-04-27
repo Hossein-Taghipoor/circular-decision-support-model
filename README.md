@@ -3,10 +3,6 @@ Decision-support model for circular product lifecycle strategies (repair, replac
 
 # Circular Decision Support Model
 
-This project looks at how to choose between repairing, replacing, or recycling a product.
+This project explores how to choose between repairing, replacing, or recycling a product based on its lifecycle characteristics.
 
-I built a simple model that compares these options using cost, environmental impact (CO₂), and expected lifetime.
-
-The model calculates a score for each option and suggests the best one.
-
-This helps to understand the trade-offs between cost and environmental impact when making decisions.
+The model uses a Kaggle dataset with carbon-related parameters across different stages of a product’s lifecycle, including energy use, emissions, transport, and usage conditions. It estimates total energy use and emissions to compare the different options.
